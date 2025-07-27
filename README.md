@@ -1,7 +1,7 @@
 ### This is My HTML notes webpage!
 
-See it live by clicking [here](https://github.com/ivan-ashikhmin/my-html-notes.git).
+See it live by clicking [here](https://ivan-ashikhmin.github.io/my-html-notes/).
 
 ### Это моя веб-страница HTML-заметок!
 
-Посмотреть её вживую можно, нажав [здесь](https://github.com/ivan-ashikhmin/my-html-notes.git).
+Посмотреть её вживую можно, нажав [здесь](https://ivan-ashikhmin.github.io/my-html-notes/).
